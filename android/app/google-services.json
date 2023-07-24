@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431832156444",
+    "project_id": "riderpro-d99b4",
+    "storage_bucket": "riderpro-d99b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431832156444:android:5a73e4c492f3a8e45ad2d9",
+        "android_client_info": {
+          "package_name": "com.example.riderpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431832156444-81d9tf273v37drj2rp51jh6fr7ldsvsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riderpro",
+            "certificate_hash": "cff18ed94be9caa42f4aaa735dac097871eb073f"
+          }
+        },
+        {
+          "client_id": "431832156444-b1h14k449mrir09hcfuf1q2m0ba58neu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9HkPnwsUckO4o7Q8yiJc3a9I_FW6n3Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431832156444-b1h14k449mrir09hcfuf1q2m0ba58neu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
